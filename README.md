@@ -1,1 +1,1 @@
-# praktikum01_tina
+# Praktikum UI/UX
